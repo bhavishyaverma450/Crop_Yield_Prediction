@@ -1,0 +1,16 @@
+{
+    "spark_version": "3.5.9",
+    "training_rows": 15806,
+    "testing_rows": 3883,
+    "linear_regression": {
+        "RMSE": 419.8142355979664,
+        "MAE": 66.91375883663821,
+        "R2": 0.7792870133211669
+    },
+    "decision_tree": {
+        "RMSE": 145.92605175532282,
+        "MAE": 11.42734276524922,
+        "R2": 0.9733326887571365
+    },
+    "best_model_by_test_RMSE": "Decision Tree Regression"
+}
